@@ -1,0 +1,16 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Svjatoslavsss/EDIBO
+    4  ls -lt
+    5  cd EDIBO/
+    6  LS -LT
+    7  ls -lt
+    8  ls -lta
+    9  pwd
+   10  la -l
+   11  ls -l
+   12  cat README.md
+   13  hexdump -C README.md
+   14  cat README.md
+   15  history
+   16  history >hitory_20200807a.txt
